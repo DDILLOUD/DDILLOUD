@@ -42,6 +42,17 @@ Slide into my DMs on [LinkedIn](https://www.linkedin.com/in/devendra-dilloud-06a
 ### Version Control
 - Git 🌀
 
+### Operational Mastery
+- Strategic Planning 🎯
+- Process Optimization 🔄
+- Team Leadership 🚀
+
+### Data-Driven Decision Making
+- Financial Analysis 💰
+- Business Acumen 📈
+- Project Management 📊
+
+
 
 <!---
 DDILLOUD/DDILLOUD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
